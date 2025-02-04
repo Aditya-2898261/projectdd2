@@ -1,7 +1,7 @@
  # teacher
 
- Student
+ Students
 
- # student
+ # students
 
  nane guru
